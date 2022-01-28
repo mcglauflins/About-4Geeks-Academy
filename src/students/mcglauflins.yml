@@ -1,0 +1,67 @@
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Sarah
+    last_name: McGlauflin
+    
+    # Define yourself in 4-5 words
+    motto: Life is too short to remove the USB safely. 
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: I am someone who decided to start improving my life starting with changing crareer paths. College has been a huge part of my adult life now, and I decided to take a risk and learn to a new skill set unassociated to my college studies. Coding is something that I have always wanted to learn and work in, but I did not want to leave the long path I already set out for. I took a leap and fell in love. Learning to eventually become a full stack developer has been so reawrding and a perfect step in the new trail I am forging for my life. By June of 2022 I will be a certified full stack developer and eager to pursure a future carreer in the tech industry. I look forward to the future of my career and to my future coding endeavors. 
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://avatars.githubusercontent.com/u/96248142?s=400&u=3057b949504e2066ef9a540fec47d790387bb427&v=4
+    # Contact Information
+    email: sarahriebschlager@gmail.com 
+    phone: (904) 304-7355 
+    linkedin: Sarah Ann McGlauflin
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: mcglauflins
+    
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: English
+        level: Native
+
+    # Interests or hobies
+    interests:
+      - item: Coding 
+
+      - item: working with teams and induvidually
+
+      - item: Technology 
+
+# Your previous education
+education:
+    - certificate: Full Stack Developer
+      university: 4Geeks Academy
+      time: 2022 
+    
+# Your previous job experiences or voluntier
+experiences:
+    - role: Office Administrative
+      time: Dec 2019 - present
+      company: High Plains Industrial Contractors
+      details: |
+       -Enter invoices
+       -Call customers and asks for payment schedule 
+       -Create bills and pay weekly
+       -Spreadsheets and excels templates to take care of weekly
+
+    - role: Care Partner
+      time: Dec 2020 - Aug 2021
+      company: Balfour 
+      details: |
+    - Maintained knowledge of community services and resources available to patients.
+    - Reduced risk and legal liabilities, consistently researching options and implementing recommendations. 
+    - Coordinated communication between patients, family members, and medical staff. 
+    - Supported individuals with advanced conditions such as Alzheimer's and Parkinson's.
